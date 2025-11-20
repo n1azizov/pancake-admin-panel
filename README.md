@@ -129,3 +129,15 @@ You can:
 This template is meant to be **fully extensible**.
 
 Enjoy building! 🔥
+
+---
+
+## 🥞 Author & Maintainer
+
+Made with ❤️ by **Nadir Azizov** — the guy who created the pancake-themed admin panel 🥞😄
+
+- 📧 Email: nadir.azizov@example.com  
+- 🐙 GitHub: github.com/n1azizov  
+- 🎓 LinkedIn: linkedin.com/in/nadirazizov  
+
+If you like this project, star ⭐ the repo!
